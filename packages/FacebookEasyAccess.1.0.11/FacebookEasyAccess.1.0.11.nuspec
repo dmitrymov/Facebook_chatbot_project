@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FacebookEasyAccess</id>
+    <version>1.0.11</version>
+    <title>FacebookEasyAccess</title>
+    <authors>lazarofl; andreragostinho</authors>
+    <owners>lazarofl; andreragostinho</owners>
+    <projectUrl>https://github.com/lazarofl/Facebook-Easy-Access</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET project that facilitates the use of the Facebook API</description>
+    <summary>.NET project that facilitates the use of the Facebook API</summary>
+    <language>en-US</language>
+    <tags>facebook</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework="" />
+      <frameworkAssembly assemblyName="System.Configuration" targetFramework="" />
+    </frameworkAssemblies>
+    <references>
+      <reference file="Facebook.dll" />
+      <reference file="FacebookEasyAccess.dll" />
+    </references>
+  </metadata>
+</package>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Altairis.Web.UI</id>
+    <version>2.1.11.0</version>
+    <title>Altairis Web UI Toolkit</title>
+    <authors>Michal Altair Valášek</authors>
+    <owners>Michal Altair Valášek</owners>
+    <licenseUrl>http://altairiswebui.codeplex.com/license</licenseUrl>
+    <projectUrl>http://altairiswebui.codeplex.com/</projectUrl>
+    <iconUrl>http://www.cdn.altairis.cz/NuGet/icon-150x150.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Set of simple and clean, yet very useful components for developing ASP.NET Web Form applications. Includes embedded popular Silk icon set.</description>
+    <releaseNotes />
+    <copyright />
+    <language />
+    <references>
+      <reference file="Altairis.Web.UI.dll" />
+    </references>
+  </metadata>
+</package>
