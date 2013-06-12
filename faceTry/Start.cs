@@ -48,6 +48,8 @@ namespace faceTry
 
 			string nick = "alice.bot.90";
 			string pass = "210187";
+			//string nick = "dimon.mmomm";
+			//string pass = "d210187";
 			client.Login(nick, pass);
 		}
 

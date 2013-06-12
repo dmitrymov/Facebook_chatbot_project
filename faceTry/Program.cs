@@ -18,9 +18,11 @@ namespace faceTry
 			Application.SetCompatibleTextRenderingDefault(false);
 			//Application.Run(new Form1());
 			Start s = new Start();
+			Prog.StartRun();
 			while (true)
 			{
 				// run
+				System.Threading.Thread.Sleep(3600000);
 			}
 		}
 	}

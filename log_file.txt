@@ -1,0 +1,80 @@
+
+Log Entry : 19:18:47 8 июня 2013 г.
+  :start publish status from ynet
+-------------------------------
+
+Log Entry : 19:18:50 8 июня 2013 г.
+  :end publish status from ynet
+-------------------------------
+
+Log Entry : 19:20:05 8 июня 2013 г.
+  :start publish status
+-------------------------------
+
+Log Entry : 19:20:45 8 июня 2013 г.
+  :end publish status
+-------------------------------
+
+Log Entry : 19:32:32 8 июня 2013 г.
+  :start publish status from ynet
+-------------------------------
+
+Log Entry : 19:32:34 8 июня 2013 г.
+  :end publish status from ynet
+-------------------------------
+
+Log Entry : 19:32:34 8 июня 2013 г.
+  :start check Friends Request
+-------------------------------
+
+Log Entry : 19:32:42 8 июня 2013 г.
+  :end check Friends Request
+-------------------------------
+
+Log Entry : 19:32:55 8 июня 2013 г.
+  :start publish status
+-------------------------------
+
+Log Entry : 19:32:57 8 июня 2013 г.
+  :end publish status
+-------------------------------
+
+Log Entry : 19:32:57 8 июня 2013 г.
+  :start check Friends Request
+-------------------------------
+
+Log Entry : 19:33:01 8 июня 2013 г.
+  :end check Friends Request
+-------------------------------
+
+Log Entry : 19:34:23 8 июня 2013 г.
+  :start publish status from ynet
+-------------------------------
+
+Log Entry : 19:34:25 8 июня 2013 г.
+  :end publish status from ynet
+-------------------------------
+
+Log Entry : 19:34:25 8 июня 2013 г.
+  :start check Friends Request
+-------------------------------
+
+Log Entry : 19:34:28 8 июня 2013 г.
+  :end check Friends Request
+-------------------------------
+
+Log Entry : 19:34:47 8 июня 2013 г.
+  :start publish status
+-------------------------------
+
+Log Entry : 19:34:49 8 июня 2013 г.
+  :end publish status
+-------------------------------
+
+Log Entry : 19:34:52 8 июня 2013 г.
+  :start check Friends Request
+-------------------------------
+
+Log Entry : 19:34:56 8 июня 2013 г.
+  :end check Friends Request
+-------------------------------
